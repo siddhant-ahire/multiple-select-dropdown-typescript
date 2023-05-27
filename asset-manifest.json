@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multiple-select-dropdown-typescript/static/css/main.5b362299.css",
+    "main.js": "/multiple-select-dropdown-typescript/static/js/main.a630ba53.js",
+    "static/js/787.bf50c949.chunk.js": "/multiple-select-dropdown-typescript/static/js/787.bf50c949.chunk.js",
+    "index.html": "/multiple-select-dropdown-typescript/index.html",
+    "main.5b362299.css.map": "/multiple-select-dropdown-typescript/static/css/main.5b362299.css.map",
+    "main.a630ba53.js.map": "/multiple-select-dropdown-typescript/static/js/main.a630ba53.js.map",
+    "787.bf50c949.chunk.js.map": "/multiple-select-dropdown-typescript/static/js/787.bf50c949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b362299.css",
+    "static/js/main.a630ba53.js"
+  ]
+}
